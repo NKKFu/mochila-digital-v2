@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mochila-digital-v2/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/mochila-digital-v2/static/js/main.42cd038d.chunk.js",
+    "main.js.map": "/mochila-digital-v2/static/js/main.42cd038d.chunk.js.map",
+    "runtime-main.js": "/mochila-digital-v2/static/js/runtime-main.e19e513f.js",
+    "runtime-main.js.map": "/mochila-digital-v2/static/js/runtime-main.e19e513f.js.map",
+    "static/js/2.4710a623.chunk.js": "/mochila-digital-v2/static/js/2.4710a623.chunk.js",
+    "static/js/2.4710a623.chunk.js.map": "/mochila-digital-v2/static/js/2.4710a623.chunk.js.map",
+    "index.html": "/mochila-digital-v2/index.html",
+    "precache-manifest.a7f42ae56e18ac9f6fba917fbc7218f8.js": "/mochila-digital-v2/precache-manifest.a7f42ae56e18ac9f6fba917fbc7218f8.js",
+    "service-worker.js": "/mochila-digital-v2/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/mochila-digital-v2/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.4710a623.chunk.js.LICENSE.txt": "/mochila-digital-v2/static/js/2.4710a623.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e19e513f.js",
+    "static/js/2.4710a623.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.42cd038d.chunk.js"
+  ]
+}
