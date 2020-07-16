@@ -13,13 +13,14 @@ import GlobalStyles from './styles/global'
 
 ReactDOM.render(
 	<>
-		<BrowserRouter>
+		{/* É necessário utilizar process.env.PUBLIC_URL para o Github pages poder entender a rota */}
+		<BrowserRouter basename={process.env.PUBLIC_URL}>
 			<Switch>
 				<Route path="/" exact component={Home} />
 				<Route path="/explore" exact component={Explore} />
 				<Route path="/exploreschool" exact component={ExploreSchool} />
 				<Route path="/configuration" exact component={Configuration} />
-				<Route path='/content/:content+' exact component={Content} />
+				<Route path="/content/:content+" exact component={Content} />
 			</Switch>
 		</ BrowserRouter>
 		<GlobalStyles />
