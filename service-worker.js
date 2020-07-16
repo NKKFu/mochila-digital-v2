@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mochila-digital-v2/precache-manifest.a7f42ae56e18ac9f6fba917fbc7218f8.js"
+  "/mochila-digital-v2/precache-manifest.042aeb880f57e45862d353d303715e07.js"
 );
 
 self.addEventListener('message', (event) => {
