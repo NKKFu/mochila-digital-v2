@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dedc64fb845bc24a3b7c2228a7ea123d",
+    "revision": "323a5625956dba1b9cc72188950ce1b7",
     "url": "/mochila-digital-v2/index.html"
   },
   {
-    "revision": "8e14d4a9c147272c361d",
+    "revision": "69ce64dd2b17297538ea",
     "url": "/mochila-digital-v2/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mochila-digital-v2/static/js/2.4710a623.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8e14d4a9c147272c361d",
-    "url": "/mochila-digital-v2/static/js/main.283e0fc9.chunk.js"
+    "revision": "69ce64dd2b17297538ea",
+    "url": "/mochila-digital-v2/static/js/main.85ca1600.chunk.js"
   },
   {
     "revision": "fe1059ff49c15d2d8cdb",
